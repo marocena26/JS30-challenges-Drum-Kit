@@ -1,5 +1,9 @@
 # Project 01 - JS Drum Kit🥁
 
+## 👩🏻‍💻 Author 
+
+- **Mª Elena Arocena López: [@marocena26](https://github.com/marocena26)**
+
 ## 🚀 Introduction
 
 In this repository you can find the files generated in the **30 Day Vanilla JS Coding Challenge - Project 01** within **[Wes Bos Courses](https://courses.wesbos.com/)**.
